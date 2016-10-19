@@ -12,6 +12,8 @@
  .directory
  *~
 
+ # web/php storm
+ .idea
 
  # npm
  node_modules
